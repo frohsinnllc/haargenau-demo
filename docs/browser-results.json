@@ -1,0 +1,54 @@
+{
+  "browser": "148.0.7778.216",
+  "reports": [
+    {
+      "width": 1440,
+      "http": 200,
+      "overflow": false,
+      "externalRequests": 0,
+      "consoleErrors": 0,
+      "axeViolations": 0,
+      "axePasses": 19,
+      "anchors": "3 passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 768,
+      "http": 200,
+      "overflow": false,
+      "externalRequests": 0,
+      "consoleErrors": 0,
+      "axeViolations": 0,
+      "axePasses": 19,
+      "anchors": "3 passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 390,
+      "http": 200,
+      "overflow": false,
+      "externalRequests": 0,
+      "consoleErrors": 0,
+      "axeViolations": 0,
+      "axePasses": 19,
+      "anchors": "3 passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 320,
+      "http": 200,
+      "overflow": false,
+      "externalRequests": 0,
+      "consoleErrors": 0,
+      "axeViolations": 0,
+      "axePasses": 19,
+      "anchors": "3 passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "javaScriptDisabled": true,
+      "navigation": "passed",
+      "content": "visible"
+    }
+  ]
+}
